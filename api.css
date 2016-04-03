@@ -1,0 +1,19 @@
+@media only screen and(min-width: 500px) {
+body {background-color:red;}
+}
+
+
+
+body {
+	text-align: center;
+}
+
+
+#search-results img {
+	height:251px;
+	width:400px;
+	padding:10px;
+	margin:0 auto;
+
+	
+}
